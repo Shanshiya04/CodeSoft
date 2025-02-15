@@ -1,6 +1,4 @@
-Here's a structured README file you can use for your GitHub repository:  
 
----
 
 # 🎬📊 ML Projects: Movie Genre Classification, Customer Churn Prediction & Spam SMS Detection  
 
@@ -65,10 +63,4 @@ Run `spam_sms_detection.py` to classify SMS messages.
 ## 📌 Results  
 Each model's performance is evaluated using various metrics, and the results are provided in the respective project folders.  
 
----
-
  
-
-## 🤝 Contributing  
-Feel free to fork the repository and contribute by improving models, adding new datasets, or optimizing performance.  
-
